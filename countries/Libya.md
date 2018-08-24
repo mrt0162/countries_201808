@@ -1,14 +1,15 @@
 ##Libya
 ## population
-6,000,000
+6,293,253
 
 ## capital
-trpolia
+tripoli
  
 ## official language
 arabic
 
 ## interesting trivia
-ingabited as early as 8000 B.C
+inhabited as early as 8000 B.C.
 
+Libya is the fourth largest country in Africa
 
